@@ -13,19 +13,26 @@
 </a>
 <br><br>
 
+
 ```python
 from 'smurtazahasan' import Software_Engineer
 
 class Murtaza:
-  def Bio():
+  def bio():
     name       = 'Murtaza Hasan'
     pronouns   = 'he | him'
     askMeAbout = ['web dev', 'tech', 'cybersecurity', 'stocks', 'music', 'coffee']
     location   = 'Toronto, Canada'
   
-  def Skills():
+  def skills():
     languages  = ['Python', 'JavaScript', 'HTML5', 'CSS', 'Java', 'SQL', 'C#']
     frameworks = ['jQuery', 'Bootstrap', 'React', 'Node.js', 'Keras', 'Pandas', 'NumPy', 'Docker', 'Git']
     design     = ['Photoshop', 'Balsamiq', 'AdobeXD', 'Sketch', 'Figma']
 
+  def experience():
+    place1     = 'Smith + Andersen'
+    title1     = 'Electrical Design Intern'
+    
+    place2     = 'Ministry of Ontario'
+    title2     = 'Front-End Developer Intern'
 ```
