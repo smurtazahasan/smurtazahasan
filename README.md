@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://raw.githubusercontent.com/smurtazahasan/smurtazahasan/main/murtaza_cover.png" />
 </p>
-<br><br>
+<br>
 <a style="text-align:center;" href="https://www.linkedin.com/in/s-murtaza-hasan/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -11,8 +11,7 @@
 <a style="text-align:center;" href="https://www.instagram.com/taza.naan/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<br><br>
-
+<br>
 
 ```python
 from 'smurtazahasan' import Software_Engineer
