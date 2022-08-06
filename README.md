@@ -26,13 +26,16 @@ class Murtaza:
   
   def skills():
     languages  = ['Python', 'JavaScript', 'HTML5', 'CSS', 'Java', 'SQL', 'C#']
-    frameworks = ['jQuery', 'Bootstrap', 'React', 'Node.js', 'Keras', 'Pandas', 'NumPy', 'Docker', 'Git']
+    tools_frameworks = ['Hadoop', 'Spark', 'Grafana', 'Airflow', 'InfluxDB', 'React', 'Keras', 'Pandas', 'NumPy', 'Openshift', 'Git', 'Bootstrap']
     design     = ['Photoshop', 'Balsamiq', 'AdobeXD', 'Sketch', 'Figma']
 
   def experience():
-    place1     = 'Smith + Andersen'
-    title1     = 'Electrical Design Intern'
+    place1     = 'Royal Bank of Canada'
+    title1     = 'Data Engineer Intern'
     
-    place2     = 'Ministry of Ontario'
-    title2     = 'Front-End Developer Intern'
+    place2     = 'Smith + Andersen'
+    title2     = 'Electrical Design Intern'
+    
+    place3     = 'Ministry of Ontario'
+    title3     = 'Front-End Developer Intern'
 ```
